@@ -15,6 +15,9 @@
         "*://gbf.game.mbga.jp/*",
         "*://gbf-tbw.tk/*",
         "*://tbw.346lab.org/*",
+        "*://gbs.eriri.net/*",
+        "*://gbf-raidfinder.teemo.name/*",
+        "*://Gbf.life/*",
         "*://gbf-raidfinder.aikats.us/*"
       ],
       "css": ["assets/contentScript/main.css"],
